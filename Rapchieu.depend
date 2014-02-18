@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1392567152 source:/home/thai/Desktop/Thai/Rapchieu/main.cpp
+	<iostream>
+	<RapThuong.h>
+
+1392728602 /home/thai/Desktop/Thai/Rapchieu/include/RapThuong.h
+	<iostream>
+
+1392535765 source:/home/thai/Desktop/Thai/Rapchieu/src/RapVip.cpp
+	"RapVip.h"
+
+1392535764 /home/thai/Desktop/Thai/Rapchieu/include/RapVip.h
+
+1392566841 source:/home/thai/Desktop/Thai/Rapchieu/src/RapThuong.cpp
+	"RapThuong.h"
+	<iostream>
+	<stdlib.h>
+
